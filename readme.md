@@ -7,7 +7,7 @@ Today we are going to begin a run-through of setting up a deployed flask app on 
 
 ![The application stack diagram](./streets_stack.drawio.png)
 
-[Here](https://github.com/Oliver-CoderAcademy/streets_app) is a link to the code we'll be using.
+[Here](https://github.com/Hauteclere/streets_app.git) is a link to the code we'll be using.
 
 Today's lesson coverts the database deployment, and tomorrow we will look at the Flask app itself.
 
